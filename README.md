@@ -4,7 +4,7 @@ This beginner-friendly interactive [notebook](https://colab.research.google.com/
 ---
 
 ## Model Architecture
-We study a simple neural network with 2 inputs, 2 hidden layers of dimension 10, a last hidden layer of dimension 3 and a binary output on which we apply the sigmoid function:
+We study a simple neural network with 2 inputs, 2 hidden layers of dimension 10, a last hidden layer of dimension 3 and a single output on which we apply the sigmoid function:
 ![](nn.svg)
 
 ## 2-dimensional boundary
